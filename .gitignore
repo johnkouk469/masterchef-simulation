@@ -1,0 +1,32 @@
+# Build output
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+bin/
+obj/
+build/
+masterchef_b
+masterchef_c
+masterchef_d
+
+# Code::Blocks local state
+*.layout
+*.depend
+*.bak
+*.save-all
+
+# Editor / OS
+.vscode/
+.idea/
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Core dumps
+core
+core.*
